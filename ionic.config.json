@@ -1,0 +1,7 @@
+{
+  "name": "unm-erp-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
